@@ -2,7 +2,7 @@
 Master of Engineering studies at Arcada University of Applied Sciences
 
 
-In addition to other files, the followiing links contaiin some visualizations created with D3.js on observable:
+In addition to other files, the followiing links contain some visualizations created with D3.js on observable:
 
 observablehq.com/d/3d41695f6e23aa56
 
